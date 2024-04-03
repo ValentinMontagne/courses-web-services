@@ -1,0 +1,14 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postgres": "^3.4.3",
+    "soap": "^1.0.0",
+    "zod": "^3.22.4"
+  }
+}
